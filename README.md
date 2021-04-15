@@ -14,6 +14,6 @@ I made a super-popular [quadcopter simulator](https://play.google.com/store/apps
 
 <p align="center">
   
-P.S. I have made more games that are displayed here in README, GitHub, available on [Google Play](https://play.google.com/store/apps/dev?id=5581031155927747193) or [AppStore](https://apps.apple.com/us/developer/andrey-melnikov/id1462193489), but I don't want to search for videos with them.
+P.S. I have made more games than those that are displayed here in README, GitHub, available on [Google Play](https://play.google.com/store/apps/dev?id=5581031155927747193) or [AppStore](https://apps.apple.com/us/developer/andrey-melnikov/id1462193489), but I don't want to search for videos with them.
 
 </p>
