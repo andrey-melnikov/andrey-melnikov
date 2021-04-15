@@ -1,4 +1,4 @@
-<h1 align='center'> Hi:wave:! I'm Andrey</h1>
+<h1 align='center'> Hi:wave:!<br>I'm Andrey</h1>
 
 <p align="center">I develop cool hyper-casual games which are highlighted here (click gif to full video): </p>
 
