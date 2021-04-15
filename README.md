@@ -2,9 +2,7 @@
 
 <p align='center'>I develop cool hyper-casual games which are highlighted here:</p>
 
-
-https://user-images.githubusercontent.com/60381511/114933745-b152f980-9e41-11eb-9471-413c853935f2.mp4
-
+[![HP](https://user-images.githubusercontent.com/60381511/114937509-8a4af680-9e46-11eb-926e-a978472ccaef.gif)](https://user-images.githubusercontent.com/60381511/114933745-b152f980-9e41-11eb-9471-413c853935f2.mp4)
 
 <p align='center'>Also I made a super-popular quadcopter simulator with more then 1m downloads:</p>
 
