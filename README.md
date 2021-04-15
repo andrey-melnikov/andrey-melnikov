@@ -4,7 +4,9 @@
 
 [<p align="center"> ![HP](https://user-images.githubusercontent.com/60381511/114937509-8a4af680-9e46-11eb-926e-a978472ccaef.gif) </p>](https://youtu.be/Yg6Ysy-HjBU)
 
-<p align="center">Also I made a super-popular quadcopter simulator with more then 1m downloads (click gif to full video):</p>
+<div align="center">
+Also I made a super-popular quadcopter simulator with more then **1m downloads** (click gif to full video):
+</div>
 
 [<p align="center"> ![DRS](https://user-images.githubusercontent.com/60381511/114938452-cc286c80-9e47-11eb-828d-bee0f50b2ec2.gif) </p>](https://www.youtube.com/watch?v=uWk1OnaZYBM&ab_channel=AndreyMelnikov)
 
