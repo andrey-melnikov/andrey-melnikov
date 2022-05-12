@@ -6,7 +6,7 @@
 
 <div align="center">
   
-I have made a super-popular [quadcopter simulator](https://play.google.com/store/apps/details?id=com.AndreyMelnikov.DroneRacingSimulator) with more than **1m downloads** (click gif to full video):
+I have made a super-popular [quadcopter simulator](https://play.google.com/store/apps/details?id=com.AndreyMelnikovGames.Drone.Racing.Simulator) with more than **1m downloads** (click gif to full video):
 
 </div>
 
